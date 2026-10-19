@@ -208,4 +208,4 @@ Sensible Soccer is available as a full free version with all features and update
 Don’t miss out on this classic football experience! Download Sensible Soccer now and start scoring goals today!
 
 ---
-**Last updated:** 2026-10-19 15:56:28 UTC
+**Last updated:** 2026-10-19 20:48:16 UTC
